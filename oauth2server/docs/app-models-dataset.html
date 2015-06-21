@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="language" content="en" />
+        <link href="./assets/c81d6255/css/bootstrap.css" rel="stylesheet">
+<link href="./assets/fb5c2979/style.css" rel="stylesheet">
+<script src="./assets/8b2ed0a5/jquery.js"></script>
+<script src="./assets/c81d6255/js/bootstrap.js"></script>
+<script src="./assets/11b6045/jssearch.js"></script>    <title>Yii Framework 2.0 API Documentation</title>
+</head>
+<body>
+
+<div class="wrap">
+    <nav id="w570" class="navbar-inverse navbar-fixed-top navbar" role="navigation"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w570-collapse"><span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button><a class="navbar-brand" href="./index.html">Yii Framework 2.0 API Documentation</a></div><div id="w570-collapse" class="collapse navbar-collapse"><ul id="w571" class="navbar-nav nav"><li><a href="./index.html">Class reference</a></li></ul><div class="navbar-form navbar-left" role="search">
+  <div class="form-group">
+    <input id="searchbox" type="text" class="form-control" placeholder="Search">
+  </div>
+</div>
+</div></nav>
+    <div id="search-resultbox" style="display: none;" class="modal-content">
+        <ul id="search-results">
+        </ul>
+    </div>
+
+    
+<div class="row">
+    <div class="col-md-3">
+                <div id="navigation" class="list-group"><a class="list-group-item" href="#navigation-559" data-toggle="collapse" data-parent="#navigation">app\assets <b class="caret"></b></a><div id="navigation-559" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-assets-appasset.html">AppAsset</a></div>
+<a class="list-group-item" href="#navigation-560" data-toggle="collapse" data-parent="#navigation">app\commands <b class="caret"></b></a><div id="navigation-560" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-commands-hellocontroller.html">HelloController</a></div>
+<a class="list-group-item" href="#navigation-561" data-toggle="collapse" data-parent="#navigation">app\components\oauth2 <b class="caret"></b></a><div id="navigation-561" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-components-oauth2-accesstokenstorage.html">AccessTokenStorage</a>
+<a class="list-group-item" href="./app-components-oauth2-authcodestorage.html">AuthCodeStorage</a>
+<a class="list-group-item" href="./app-components-oauth2-clientstorage.html">ClientStorage</a>
+<a class="list-group-item" href="./app-components-oauth2-scopestorage.html">ScopeStorage</a>
+<a class="list-group-item" href="./app-components-oauth2-sessionstorage.html">SessionStorage</a></div>
+<a class="list-group-item" href="#navigation-562" data-toggle="collapse" data-parent="#navigation">app\controllers <b class="caret"></b></a><div id="navigation-562" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-controllers-sitecontroller.html">SiteController</a></div>
+<a class="list-group-item active" href="#navigation-563" data-toggle="collapse" data-parent="#navigation">app\models <b class="caret"></b></a><div id="navigation-563" class="submenu panel-collapse collapse in"><a class="list-group-item" href="./app-models-contactform.html">ContactForm</a>
+<a class="list-group-item active" href="./app-models-dataset.html">Dataset</a>
+<a class="list-group-item" href="./app-models-item.html">Item</a>
+<a class="list-group-item" href="./app-models-itemrecord.html">ItemRecord</a>
+<a class="list-group-item" href="./app-models-itemrelation.html">ItemRelation</a>
+<a class="list-group-item" href="./app-models-loginform.html">LoginForm</a>
+<a class="list-group-item" href="./app-models-oauth_access_tokens.html">OAuth_Access_Tokens</a>
+<a class="list-group-item" href="./app-models-oauth_auth_codes.html">OAuth_Auth_Codes</a>
+<a class="list-group-item" href="./app-models-oauth_sessions.html">OAuth_Sessions</a>
+<a class="list-group-item" href="./app-models-phase.html">Phase</a>
+<a class="list-group-item" href="./app-models-place.html">Place</a>
+<a class="list-group-item" href="./app-models-program.html">Program</a>
+<a class="list-group-item" href="./app-models-property.html">Property</a>
+<a class="list-group-item" href="./app-models-record.html">Record</a>
+<a class="list-group-item" href="./app-models-recordvariable.html">RecordVariable</a>
+<a class="list-group-item" href="./app-models-scale.html">Scale</a>
+<a class="list-group-item" href="./app-models-scalevalue.html">ScaleValue</a>
+<a class="list-group-item" href="./app-models-season.html">Season</a>
+<a class="list-group-item" href="./app-models-study.html">Study</a>
+<a class="list-group-item" href="./app-models-studymetadata.html">StudyMetadata</a>
+<a class="list-group-item" href="./app-models-taskrecord.html">TaskRecord</a>
+<a class="list-group-item" href="./app-models-transaction.html">Transaction</a>
+<a class="list-group-item" href="./app-models-user.html">User</a>
+<a class="list-group-item" href="./app-models-variable.html">Variable</a></div>
+<a class="list-group-item" href="#navigation-564" data-toggle="collapse" data-parent="#navigation">app\modules\v1 <b class="caret"></b></a><div id="navigation-564" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-modules-v1-v1module.html">V1Module</a></div>
+<a class="list-group-item" href="#navigation-565" data-toggle="collapse" data-parent="#navigation">app\modules\v1\controllers <b class="caret"></b></a><div id="navigation-565" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-modules-v1-controllers-authorizecontroller.html">AuthorizeController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-datasetcontroller.html">DatasetController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-defaultcontroller.html">DefaultController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-itemcontroller.html">ItemController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-itemrecordcontroller.html">ItemRecordController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-itemrelationcontroller.html">ItemRelationController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-oauthcontroller.html">OAuthController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-phasecontroller.html">PhaseController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-placecontroller.html">PlaceController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-programcontroller.html">ProgramController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-propertycontroller.html">PropertyController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-recordcontroller.html">RecordController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-recordvariablecontroller.html">RecordVariableController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-scalecontroller.html">ScaleController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-scalevaluecontroller.html">ScaleValueController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-seasoncontroller.html">SeasonController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-studycontroller.html">StudyController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-studymetadatacontroller.html">StudyMetadataController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-tokencontroller.html">TokenController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-transactioncontroller.html">TransactionController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-usercontroller.html">UserController</a>
+<a class="list-group-item" href="./app-modules-v1-controllers-variablecontroller.html">VariableController</a></div>
+<a class="list-group-item" href="#navigation-566" data-toggle="collapse" data-parent="#navigation">app\modules\v1\models <b class="caret"></b></a><div id="navigation-566" class="submenu panel-collapse collapse"><a class="list-group-item" href="./app-modules-v1-models-activedataprovider.html">ActiveDataProvider</a>
+<a class="list-group-item" href="./app-modules-v1-models-arraydataprovider.html">ArrayDataProvider</a>
+<a class="list-group-item" href="./app-modules-v1-models-basedataprovider.html">BaseDataProvider</a>
+<a class="list-group-item" href="./app-modules-v1-models-dataproviderinterface.html">DataProviderInterface</a>
+<a class="list-group-item" href="./app-modules-v1-models-pagination.html">Pagination</a>
+<a class="list-group-item" href="./app-modules-v1-models-querybuilder.html">QueryBuilder</a>
+<a class="list-group-item" href="./app-modules-v1-models-serializer2.html">Serializer2</a>
+<a class="list-group-item" href="./app-modules-v1-models-sort.html">Sort</a>
+<a class="list-group-item" href="./app-modules-v1-models-sqldataprovider.html">SqlDataProvider</a></div>
+<a class="list-group-item" href="#navigation-567" data-toggle="collapse" data-parent="#navigation">cebe\jssearch <b class="caret"></b></a><div id="navigation-567" class="submenu panel-collapse collapse"><a class="list-group-item" href="./cebe-jssearch-analyzerinterface.html">AnalyzerInterface</a>
+<a class="list-group-item" href="./cebe-jssearch-indexer.html">Indexer</a>
+<a class="list-group-item" href="./cebe-jssearch-tokenizerinterface.html">TokenizerInterface</a></div>
+<a class="list-group-item" href="#navigation-568" data-toggle="collapse" data-parent="#navigation">cebe\jssearch\analyzer <b class="caret"></b></a><div id="navigation-568" class="submenu panel-collapse collapse"><a class="list-group-item" href="./cebe-jssearch-analyzer-htmlanalyzer.html">HtmlAnalyzer</a></div>
+<a class="list-group-item" href="#navigation-569" data-toggle="collapse" data-parent="#navigation">cebe\jssearch\tokenizer <b class="caret"></b></a><div id="navigation-569" class="submenu panel-collapse collapse"><a class="list-group-item" href="./cebe-jssearch-tokenizer-standardtokenizer.html">StandardTokenizer</a></div></div>    </div>
+    <div class="col-md-9 api-content" role="main">
+        <h1>Class app\models\Dataset</h1>
+<div id="nav">
+    <a href="index.html">All Classes</a>
+                | <a href="#methods">Methods</a>
+            </div>
+
+<table class="summaryTable docClass table table-bordered">
+    <colgroup>
+        <col class="col-name" />
+        <col class="col-value" />
+    </colgroup>
+            <tr><th>Inheritance</th><td><a href="app-models-dataset.html">app\models\Dataset</a> &raquo;
+yii\db\ActiveRecord</td></tr>
+                                </table>
+
+<div id="classDescription">
+    <p><strong>This is the model class for table "api.dataset".</strong></p>
+    
+    </div>
+
+<a name="properties"></a>
+
+<a name="methods"></a>
+
+<div class="summary doc-method">
+<h2>Public Methods</h2>
+
+<p><a href="#" class="toggle">Hide inherited methods</a></p>
+
+<table class="summary-table table table-striped table-bordered table-hover">
+<colgroup>
+    <col class="col-method" />
+    <col class="col-description" />
+    <col class="col-defined" />
+</colgroup>
+<tr>
+  <th>Method</th><th>Description</th><th>Defined By</th>
+</tr>
+        <tr id="attributeLabels()">
+        <td><a href="app-models-dataset.html#attributeLabels()-detail">attributeLabels()</a></td>
+        <td></td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="create()">
+        <td><a href="app-models-dataset.html#create()-detail">create()</a></td>
+        <td>Creates new dataset object</td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="deleteByTransactionId()">
+        <td><a href="app-models-dataset.html#deleteByTransactionId()-detail">deleteByTransactionId()</a></td>
+        <td>Deletes all the datasets given the transaction id</td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="fields()">
+        <td><a href="app-models-dataset.html#fields()-detail">fields()</a></td>
+        <td>Set values for the fields or attributes to be returned</td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="getDatasetByTransactionId()">
+        <td><a href="app-models-dataset.html#getDatasetByTransactionId()-detail">getDatasetByTransactionId()</a></td>
+        <td>Return the record(s) of the dataset given the transaction id</td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="getQuery()">
+        <td><a href="app-models-dataset.html#getQuery()-detail">getQuery()</a></td>
+        <td>Return filtered data</td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="rules()">
+        <td><a href="app-models-dataset.html#rules()-detail">rules()</a></td>
+        <td></td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="tableName()">
+        <td><a href="app-models-dataset.html#tableName()-detail">tableName()</a></td>
+        <td></td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+            <tr id="validateInputFile()">
+        <td><a href="app-models-dataset.html#validateInputFile()-detail">validateInputFile()</a></td>
+        <td>Checks if a valid json.</td>
+        <td><a href="app-models-dataset.html">app\models\Dataset</a></td>
+    </tr>
+    </table>
+</div>
+
+<a name="events"></a>
+
+<a name="constants"></a>
+
+<h2>Method Details</h2>
+
+<div class="method-doc">
+
+    <div class="detail-header h3" id="attributeLabels()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#attributeLabels()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        attributeLabels()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong></strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature">void <strong><a href="app-models-dataset.html#attributeLabels()-detail">attributeLabels</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;)</span></td></tr>
+            </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="create()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#create()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        create()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong>Creates new dataset object</strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature"><a href="app-models-dataset.html">app\models\Dataset</a> <strong><a href="app-models-dataset.html#create()-detail">create</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;</span><span style="color: #0000BB">$params</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$transaction_id</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$status&nbsp;</span><span style="color: #007700">)</span></td></tr>
+                                    <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$params</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.array">array</a></td>
+                  <td class="param-desc-col"><p>Array that contains the new object</p>
+</td>
+                </tr>
+                            <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$transaction_id</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.integer">integer</a></td>
+                  <td class="param-desc-col"><p>Id in the transaction table</p>
+</td>
+                </tr>
+                            <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$status</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.string">string</a></td>
+                  <td class="param-desc-col"><p>Status of the new record</p>
+</td>
+                </tr>
+                                        <tr>
+                  <th class="param-name-col">return</th>
+                  <td class="param-type-col"><a href="app-models-dataset.html">app\models\Dataset</a></td>
+                  <td class="param-desc-col"><p>Model object of the new record</p>
+</td>
+                </tr>
+                                        <tr>
+                  <th class="param-name-col">throws</th>
+                  <td class="param-type-col">\app\models\ServerErrorHttpException</td>
+                  <td class="param-desc-col"><p>on falure</p>
+</td>
+                </tr>
+                        </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="deleteByTransactionId()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#deleteByTransactionId()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        deleteByTransactionId()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong>Deletes all the datasets given the transaction id</strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature"><a href="http://www.php.net/language.types.array">array</a> <strong><a href="app-models-dataset.html#deleteByTransactionId()-detail">deleteByTransactionId</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;</span><span style="color: #0000BB">$id&nbsp;</span><span style="color: #007700">)</span></td></tr>
+                                    <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$id</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.integer">integer</a></td>
+                  <td class="param-desc-col"><p>Id in the transaction table</p>
+</td>
+                </tr>
+                                        <tr>
+                  <th class="param-name-col">return</th>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.array">array</a></td>
+                  <td class="param-desc-col"><p>Array that contains the status of the action</p>
+</td>
+                </tr>
+                                    </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="fields()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#fields()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        fields()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong>Set values for the fields or attributes to be returned</strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature"><a href="http://www.php.net/language.types.array">array</a> <strong><a href="app-models-dataset.html#fields()-detail">fields</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;)</span></td></tr>
+                                                <tr>
+                  <th class="param-name-col">return</th>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.array">array</a></td>
+                  <td class="param-desc-col"><p>Array of the attributes to be returned</p>
+</td>
+                </tr>
+                                    </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="getDatasetByTransactionId()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#getDatasetByTransactionId()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        getDatasetByTransactionId()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong>Return the record(s) of the dataset given the transaction id</strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature"><a href="http://www.php.net/language.types.array">array</a> <strong><a href="app-models-dataset.html#getDatasetByTransactionId()-detail">getDatasetByTransactionId</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;</span><span style="color: #0000BB">$transaction_id&nbsp;</span><span style="color: #007700">)</span></td></tr>
+                                    <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$transaction_id</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.integer">integer</a></td>
+                  <td class="param-desc-col"><p>Id in the transaction table</p>
+</td>
+                </tr>
+                                        <tr>
+                  <th class="param-name-col">return</th>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.array">array</a></td>
+                  <td class="param-desc-col"><p>Array of the datasets</p>
+</td>
+                </tr>
+                                    </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="getQuery()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#getQuery()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        getQuery()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong>Return filtered data</strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature"><a href="http://www.php.net/language.types.object">object</a> <strong><a href="app-models-dataset.html#getQuery()-detail">getQuery</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;</span><span style="color: #0000BB">$params</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$model&nbsp;</span><span style="color: #007700">)</span></td></tr>
+                                    <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$params</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.array">array</a></td>
+                  <td class="param-desc-col"><p>Contains parameters for filtering</p>
+</td>
+                </tr>
+                            <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$model</span></td>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.object">object</a></td>
+                  <td class="param-desc-col"><p>Object of the model class</p>
+</td>
+                </tr>
+                                        <tr>
+                  <th class="param-name-col">return</th>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.object">object</a></td>
+                  <td class="param-desc-col"><p>Filtered data</p>
+</td>
+                </tr>
+                                    </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="rules()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#rules()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        rules()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong></strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature">void <strong><a href="app-models-dataset.html#rules()-detail">rules</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;)</span></td></tr>
+            </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="tableName()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#tableName()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        tableName()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong></strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature">void <strong><a href="app-models-dataset.html#tableName()-detail">tableName</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;)</span></td></tr>
+            </table>
+
+<!--	-->
+
+    <div class="detail-header h3" id="validateInputFile()-detail">
+        <a href="#" class="tool-link" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a>
+        <a class="tool-link hash" href="app-models-dataset.html#validateInputFile()-detail" title="direct link to this method"><span class="glyphicon icon-hash"></span></a>
+        
+        validateInputFile()
+        <span class="detail-header-tag small">
+            public            method
+                    </span>
+    </div>
+
+    <div class="doc-description">
+        <p><strong>Checks if a valid json.</strong></p>
+
+        
+            </div>
+
+    <table class="detail-table table table-striped table-bordered table-hover">
+        <tr><td colspan="3" class="signature"><a href="http://www.php.net/language.types.array">array</a> <strong><a href="app-models-dataset.html#validateInputFile()-detail">validateInputFile</a></strong><span style="color: #0000BB"></span><span style="color: #007700">(&nbsp;</span><span style="color: #0000BB">$data&nbsp;</span><span style="color: #007700">)</span></td></tr>
+                                    <tr>
+                  <td class="param-name-col"><span style="color: #0000BB">$data</span></td>
+                  <td class="param-type-col">\app\models\json</td>
+                  <td class="param-desc-col"><p>Data to be validated</p>
+</td>
+                </tr>
+                                        <tr>
+                  <th class="param-name-col">return</th>
+                  <td class="param-type-col"><a href="http://www.php.net/language.types.array">array</a></td>
+                  <td class="param-desc-col"><p>Array that contains the status=1, if the array is valid, status=0 if invalid and corresponding error message</p>
+</td>
+                </tr>
+                                    </table>
+
+<!--	-->
+</div>
+        </div>
+</div>
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+    $("a.toggle").on('click', function () {
+        var $this = $(this);
+        if ($this.hasClass('properties-hidden')) {
+            $this.text($this.text().replace(/Show/,'Hide'));
+            $this.parents(".summary").find(".inherited").show();
+            $this.removeClass('properties-hidden');
+        } else {
+            $this.text($this.text().replace(/Hide/,'Show'));
+            $this.parents(".summary").find(".inherited").hide();
+            $this.addClass('properties-hidden');
+        }
+
+        return false;
+    });
+    /*
+     $(".sourceCode a.show").toggle(function () {
+     $(this).text($(this).text().replace(/show/,'hide'));
+     $(this).parents(".sourceCode").find("div.code").show();
+     },function () {
+     $(this).text($(this).text().replace(/hide/,'show'));
+     $(this).parents(".sourceCode").find("div.code").hide();
+     });
+     $("a.sourceLink").click(function () {
+     $(this).attr('target','_blank');
+     });
+     */
+    /*]]>*/
+</script>
+
+
+</div>
+
+<footer class="footer">
+        <p class="pull-right"><small>Page generated on Fri, 20 Feb 2015 02:13:01 +0000</small></p>
+    Powered by <a href="http://www.yiiframework.com/" rel="external">Yii Framework</a></footer>
+
+<script type="text/javascript">jQuery(document).ready(function () {
+    var shiftWindow = function () { scrollBy(0, -50) };
+    if (location.hash) shiftWindow();
+    window.addEventListener("hashchange", shiftWindow);
+var element = document.createElement("script");
+element.src = "./jssearch.index.js";
+document.body.appendChild(element);
+
+var searchBox = $('#searchbox');
+
+// search when typing in search field
+searchBox.on("keyup", function(event) {
+    var query = $(this).val();
+
+    if (query == '' || event.which == 27) {
+        $('#search-resultbox').hide();
+        return;
+    } else if (event.which == 13) {
+        var selectedLink = $('#search-resultbox a.selected');
+        if (selectedLink.length != 0) {
+            document.location = selectedLink.attr('href');
+            return;
+        }
+    } else if (event.which == 38 || event.which == 40) {
+        $('#search-resultbox').show();
+
+        var selected = $('#search-resultbox a.selected');
+        if (selected.length == 0) {
+            $('#search-results').find('a').first().addClass('selected');
+        } else {
+            var next;
+            if (event.which == 40) {
+                next = selected.parent().next().find('a').first();
+            } else {
+                next = selected.parent().prev().find('a').first();
+            }
+            if (next.length != 0) {
+                var resultbox = $('#search-results');
+                var position = next.position();
+
+//              TODO scrolling is buggy and jumps around
+//                resultbox.scrollTop(Math.floor(position.top));
+//                console.log(position.top);
+
+                selected.removeClass('selected');
+                next.addClass('selected');
+            }
+        }
+
+        return;
+    }
+    $('#search-resultbox').show();
+    $('#search-results').html('<li><span class="no-results">No results</span></li>');
+
+    var result = jssearch.search(query);
+
+    if (result.length > 0) {
+        var i = 0;
+        var resHtml = '';
+
+        for (var key in result) {
+            if (i++ > 20) {
+                break;
+            }
+            resHtml = resHtml +
+            '<li><a href="' + result[key].file.u.substr(3) +'"><span class="title">' + result[key].file.t + '</span>' +
+            '<span class="description">' + result[key].file.d + '</span></a></li>';
+        }
+        $('#search-results').html(resHtml);
+    }
+});
+
+// hide the search results on ESC
+$(document).on("keyup", function(event) { if (event.which == 27) { $('#search-resultbox').hide(); } });
+// hide search results on click to document
+$(document).bind('click', function (e) { $('#search-resultbox').hide(); });
+// except the following:
+searchBox.bind('click', function(e) { e.stopPropagation(); });
+$('#search-resultbox').bind('click', function(e) { e.stopPropagation(); });
+
+});</script></body>
+</html>

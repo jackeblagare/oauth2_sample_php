@@ -1,0 +1,1787 @@
+Array
+(
+    [0] => Array
+        (
+            [line] => 18
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element '$index'
+        )
+
+    [1] => Array
+        (
+            [line] => 18
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No short description for element '$index'
+        )
+
+    [2] => Array
+        (
+            [line] => 19
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element '$files'
+        )
+
+    [3] => Array
+        (
+            [line] => 19
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No short description for element '$files'
+        )
+
+    [4] => Array
+        (
+            [line] => 21
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element 'indexFiles'
+        )
+
+    [5] => Array
+        (
+            [line] => 57
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element 'generateFileInfo'
+        )
+
+    [6] => Array
+        (
+            [line] => 73
+            [file] => ./apidocs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element 'exportJs'
+        )
+
+    [7] => Array
+        (
+            [line] => 20
+            [file] => ./apidocs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$headWeight'
+        )
+
+    [8] => Array
+        (
+            [line] => 20
+            [file] => ./apidocs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$headWeight'
+        )
+
+    [9] => Array
+        (
+            [line] => 21
+            [file] => ./apidocs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$titleWeight'
+        )
+
+    [10] => Array
+        (
+            [line] => 21
+            [file] => ./apidocs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$titleWeight'
+        )
+
+    [11] => Array
+        (
+            [line] => 22
+            [file] => ./apidocs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$textWeight'
+        )
+
+    [12] => Array
+        (
+            [line] => 22
+            [file] => ./apidocs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$textWeight'
+        )
+
+    [13] => Array
+        (
+            [line] => 18
+            [file] => ./assets/AppAsset.php
+            [message] => No docblock for element '$basePath'
+        )
+
+    [14] => Array
+        (
+            [line] => 18
+            [file] => ./assets/AppAsset.php
+            [message] => No short description for element '$basePath'
+        )
+
+    [15] => Array
+        (
+            [line] => 19
+            [file] => ./assets/AppAsset.php
+            [message] => No docblock for element '$baseUrl'
+        )
+
+    [16] => Array
+        (
+            [line] => 19
+            [file] => ./assets/AppAsset.php
+            [message] => No short description for element '$baseUrl'
+        )
+
+    [17] => Array
+        (
+            [line] => 20
+            [file] => ./assets/AppAsset.php
+            [message] => No docblock for element '$css'
+        )
+
+    [18] => Array
+        (
+            [line] => 20
+            [file] => ./assets/AppAsset.php
+            [message] => No short description for element '$css'
+        )
+
+    [19] => Array
+        (
+            [line] => 23
+            [file] => ./assets/AppAsset.php
+            [message] => No docblock for element '$js'
+        )
+
+    [20] => Array
+        (
+            [line] => 23
+            [file] => ./assets/AppAsset.php
+            [message] => No short description for element '$js'
+        )
+
+    [21] => Array
+        (
+            [line] => 25
+            [file] => ./assets/AppAsset.php
+            [message] => No docblock for element '$depends'
+        )
+
+    [22] => Array
+        (
+            [line] => 25
+            [file] => ./assets/AppAsset.php
+            [message] => No short description for element '$depends'
+        )
+
+    [23] => Array
+        (
+            [line] => 13
+            [file] => ./components/oauth2/AccessTokenStorage.php
+            [message] => No docblock for element 'app\components\oauth2\AccessTokenStorage'
+        )
+
+    [24] => Array
+        (
+            [line] => 11
+            [file] => ./components/oauth2/AuthCodeStorage.php
+            [message] => No docblock for element 'app\components\oauth2\AuthCodeStorage'
+        )
+
+    [25] => Array
+        (
+            [line] => 39
+            [file] => ./components/oauth2/AuthCodeStorage.php
+            [message] => No docblock for element 'create'
+        )
+
+    [26] => Array
+        (
+            [line] => 12
+            [file] => ./components/oauth2/ClientStorage.php
+            [message] => No docblock for element 'app\components\oauth2\ClientStorage'
+        )
+
+    [27] => Array
+        (
+            [line] => 10
+            [file] => ./components/oauth2/ScopeStorage.php
+            [message] => No docblock for element 'app\components\oauth2\ScopeStorage'
+        )
+
+    [28] => Array
+        (
+            [line] => 15
+            [file] => ./components/oauth2/SessionStorage.php
+            [message] => No docblock for element 'app\components\oauth2\SessionStorage'
+        )
+
+    [29] => Array
+        (
+            [line] => 13
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'app\controllers\SiteController'
+        )
+
+    [30] => Array
+        (
+            [line] => 15
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'behaviors'
+        )
+
+    [31] => Array
+        (
+            [line] => 37
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actions'
+        )
+
+    [32] => Array
+        (
+            [line] => 47
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actionError'
+        )
+
+    [33] => Array
+        (
+            [line] => 56
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [34] => Array
+        (
+            [line] => 66
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actionLogin'
+        )
+
+    [35] => Array
+        (
+            [line] => 81
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actionLogout'
+        )
+
+    [36] => Array
+        (
+            [line] => 87
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actionContact'
+        )
+
+    [37] => Array
+        (
+            [line] => 100
+            [file] => ./controllers/SiteController.php
+            [message] => No docblock for element 'actionAbout'
+        )
+
+    [38] => Array
+        (
+            [line] => 18
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element '$index'
+        )
+
+    [39] => Array
+        (
+            [line] => 18
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No short description for element '$index'
+        )
+
+    [40] => Array
+        (
+            [line] => 19
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element '$files'
+        )
+
+    [41] => Array
+        (
+            [line] => 19
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No short description for element '$files'
+        )
+
+    [42] => Array
+        (
+            [line] => 21
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element 'indexFiles'
+        )
+
+    [43] => Array
+        (
+            [line] => 57
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element 'generateFileInfo'
+        )
+
+    [44] => Array
+        (
+            [line] => 73
+            [file] => ./docs/assets/11b6045/lib/Indexer.php
+            [message] => No docblock for element 'exportJs'
+        )
+
+    [45] => Array
+        (
+            [line] => 20
+            [file] => ./docs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$headWeight'
+        )
+
+    [46] => Array
+        (
+            [line] => 20
+            [file] => ./docs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$headWeight'
+        )
+
+    [47] => Array
+        (
+            [line] => 21
+            [file] => ./docs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$titleWeight'
+        )
+
+    [48] => Array
+        (
+            [line] => 21
+            [file] => ./docs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$titleWeight'
+        )
+
+    [49] => Array
+        (
+            [line] => 22
+            [file] => ./docs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$textWeight'
+        )
+
+    [50] => Array
+        (
+            [line] => 22
+            [file] => ./docs/assets/11b6045/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$textWeight'
+        )
+
+    [51] => Array
+        (
+            [line] => 18
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No docblock for element '$index'
+        )
+
+    [52] => Array
+        (
+            [line] => 18
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No short description for element '$index'
+        )
+
+    [53] => Array
+        (
+            [line] => 19
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No docblock for element '$files'
+        )
+
+    [54] => Array
+        (
+            [line] => 19
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No short description for element '$files'
+        )
+
+    [55] => Array
+        (
+            [line] => 21
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No docblock for element 'indexFiles'
+        )
+
+    [56] => Array
+        (
+            [line] => 57
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No docblock for element 'generateFileInfo'
+        )
+
+    [57] => Array
+        (
+            [line] => 73
+            [file] => ./docs/assets/5c2b2c8c/lib/Indexer.php
+            [message] => No docblock for element 'exportJs'
+        )
+
+    [58] => Array
+        (
+            [line] => 20
+            [file] => ./docs/assets/5c2b2c8c/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$headWeight'
+        )
+
+    [59] => Array
+        (
+            [line] => 20
+            [file] => ./docs/assets/5c2b2c8c/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$headWeight'
+        )
+
+    [60] => Array
+        (
+            [line] => 21
+            [file] => ./docs/assets/5c2b2c8c/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$titleWeight'
+        )
+
+    [61] => Array
+        (
+            [line] => 21
+            [file] => ./docs/assets/5c2b2c8c/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$titleWeight'
+        )
+
+    [62] => Array
+        (
+            [line] => 22
+            [file] => ./docs/assets/5c2b2c8c/lib/analyzer/HtmlAnalyzer.php
+            [message] => No docblock for element '$textWeight'
+        )
+
+    [63] => Array
+        (
+            [line] => 22
+            [file] => ./docs/assets/5c2b2c8c/lib/analyzer/HtmlAnalyzer.php
+            [message] => No short description for element '$textWeight'
+        )
+
+    [64] => Array
+        (
+            [line] => 13
+            [file] => ./models/ContactForm.php
+            [message] => No docblock for element '$name'
+        )
+
+    [65] => Array
+        (
+            [line] => 13
+            [file] => ./models/ContactForm.php
+            [message] => No short description for element '$name'
+        )
+
+    [66] => Array
+        (
+            [line] => 14
+            [file] => ./models/ContactForm.php
+            [message] => No docblock for element '$email'
+        )
+
+    [67] => Array
+        (
+            [line] => 14
+            [file] => ./models/ContactForm.php
+            [message] => No short description for element '$email'
+        )
+
+    [68] => Array
+        (
+            [line] => 15
+            [file] => ./models/ContactForm.php
+            [message] => No docblock for element '$subject'
+        )
+
+    [69] => Array
+        (
+            [line] => 15
+            [file] => ./models/ContactForm.php
+            [message] => No short description for element '$subject'
+        )
+
+    [70] => Array
+        (
+            [line] => 16
+            [file] => ./models/ContactForm.php
+            [message] => No docblock for element '$body'
+        )
+
+    [71] => Array
+        (
+            [line] => 16
+            [file] => ./models/ContactForm.php
+            [message] => No short description for element '$body'
+        )
+
+    [72] => Array
+        (
+            [line] => 17
+            [file] => ./models/ContactForm.php
+            [message] => No docblock for element '$verifyCode'
+        )
+
+    [73] => Array
+        (
+            [line] => 17
+            [file] => ./models/ContactForm.php
+            [message] => No short description for element '$verifyCode'
+        )
+
+    [74] => Array
+        (
+            [line] => 33
+            [file] => ./models/Dataset.php
+            [message] => Method tableName has no parent to inherit from in app\models\Dataset.
+        )
+
+    [75] => Array
+        (
+            [line] => 40
+            [file] => ./models/Dataset.php
+            [message] => Method rules has no parent to inherit from in app\models\Dataset.
+        )
+
+    [76] => Array
+        (
+            [line] => 52
+            [file] => ./models/Dataset.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Dataset.
+        )
+
+    [77] => Array
+        (
+            [line] => 40
+            [file] => ./models/Item.php
+            [message] => Method tableName has no parent to inherit from in app\models\Item.
+        )
+
+    [78] => Array
+        (
+            [line] => 47
+            [file] => ./models/Item.php
+            [message] => Method rules has no parent to inherit from in app\models\Item.
+        )
+
+    [79] => Array
+        (
+            [line] => 63
+            [file] => ./models/Item.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Item.
+        )
+
+    [80] => Array
+        (
+            [line] => 34
+            [file] => ./models/ItemRecord.php
+            [message] => Method tableName has no parent to inherit from in app\models\ItemRecord.
+        )
+
+    [81] => Array
+        (
+            [line] => 41
+            [file] => ./models/ItemRecord.php
+            [message] => Method rules has no parent to inherit from in app\models\ItemRecord.
+        )
+
+    [82] => Array
+        (
+            [line] => 54
+            [file] => ./models/ItemRecord.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\ItemRecord.
+        )
+
+    [83] => Array
+        (
+            [line] => 45
+            [file] => ./models/ItemRelation.php
+            [message] => Method tableName has no parent to inherit from in app\models\ItemRelation.
+        )
+
+    [84] => Array
+        (
+            [line] => 52
+            [file] => ./models/ItemRelation.php
+            [message] => Method rules has no parent to inherit from in app\models\ItemRelation.
+        )
+
+    [85] => Array
+        (
+            [line] => 70
+            [file] => ./models/ItemRelation.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\ItemRelation.
+        )
+
+    [86] => Array
+        (
+            [line] => 13
+            [file] => ./models/LoginForm.php
+            [message] => No docblock for element '$username'
+        )
+
+    [87] => Array
+        (
+            [line] => 13
+            [file] => ./models/LoginForm.php
+            [message] => No short description for element '$username'
+        )
+
+    [88] => Array
+        (
+            [line] => 14
+            [file] => ./models/LoginForm.php
+            [message] => No docblock for element '$password'
+        )
+
+    [89] => Array
+        (
+            [line] => 14
+            [file] => ./models/LoginForm.php
+            [message] => No short description for element '$password'
+        )
+
+    [90] => Array
+        (
+            [line] => 15
+            [file] => ./models/LoginForm.php
+            [message] => No docblock for element '$rememberMe'
+        )
+
+    [91] => Array
+        (
+            [line] => 15
+            [file] => ./models/LoginForm.php
+            [message] => No short description for element '$rememberMe'
+        )
+
+    [92] => Array
+        (
+            [line] => 21
+            [file] => ./models/OAuth_Access_Tokens.php
+            [message] => Method tableName has no parent to inherit from in app\models\OAuth_Access_Tokens.
+        )
+
+    [93] => Array
+        (
+            [line] => 29
+            [file] => ./models/OAuth_Access_Tokens.php
+            [message] => Method rules has no parent to inherit from in app\models\OAuth_Access_Tokens.
+        )
+
+    [94] => Array
+        (
+            [line] => 44
+            [file] => ./models/OAuth_Access_Tokens.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\OAuth_Access_Tokens.
+        )
+
+    [95] => Array
+        (
+            [line] => 23
+            [file] => ./models/OAuth_Auth_Codes.php
+            [message] => Method tableName has no parent to inherit from in app\models\OAuth_Auth_Codes.
+        )
+
+    [96] => Array
+        (
+            [line] => 31
+            [file] => ./models/OAuth_Auth_Codes.php
+            [message] => Method rules has no parent to inherit from in app\models\OAuth_Auth_Codes.
+        )
+
+    [97] => Array
+        (
+            [line] => 46
+            [file] => ./models/OAuth_Auth_Codes.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\OAuth_Auth_Codes.
+        )
+
+    [98] => Array
+        (
+            [line] => 19
+            [file] => ./models/OAuth_Sessions.php
+            [message] => Method tableName has no parent to inherit from in app\models\OAuth_Sessions.
+        )
+
+    [99] => Array
+        (
+            [line] => 27
+            [file] => ./models/OAuth_Sessions.php
+            [message] => Method rules has no parent to inherit from in app\models\OAuth_Sessions.
+        )
+
+    [100] => Array
+        (
+            [line] => 37
+            [file] => ./models/OAuth_Sessions.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\OAuth_Sessions.
+        )
+
+    [101] => Array
+        (
+            [line] => 33
+            [file] => ./models/Phase.php
+            [message] => Method tableName has no parent to inherit from in app\models\Phase.
+        )
+
+    [102] => Array
+        (
+            [line] => 40
+            [file] => ./models/Phase.php
+            [message] => Method rules has no parent to inherit from in app\models\Phase.
+        )
+
+    [103] => Array
+        (
+            [line] => 56
+            [file] => ./models/Phase.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Phase.
+        )
+
+    [104] => Array
+        (
+            [line] => 41
+            [file] => ./models/Place.php
+            [message] => Method tableName has no parent to inherit from in app\models\Place.
+        )
+
+    [105] => Array
+        (
+            [line] => 48
+            [file] => ./models/Place.php
+            [message] => Method rules has no parent to inherit from in app\models\Place.
+        )
+
+    [106] => Array
+        (
+            [line] => 64
+            [file] => ./models/Place.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Place.
+        )
+
+    [107] => Array
+        (
+            [line] => 38
+            [file] => ./models/Program.php
+            [message] => Method tableName has no parent to inherit from in app\models\Program.
+        )
+
+    [108] => Array
+        (
+            [line] => 45
+            [file] => ./models/Program.php
+            [message] => Method rules has no parent to inherit from in app\models\Program.
+        )
+
+    [109] => Array
+        (
+            [line] => 62
+            [file] => ./models/Program.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Program.
+        )
+
+    [110] => Array
+        (
+            [line] => 38
+            [file] => ./models/Property.php
+            [message] => Method tableName has no parent to inherit from in app\models\Property.
+        )
+
+    [111] => Array
+        (
+            [line] => 45
+            [file] => ./models/Property.php
+            [message] => Method rules has no parent to inherit from in app\models\Property.
+        )
+
+    [112] => Array
+        (
+            [line] => 62
+            [file] => ./models/Property.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Property.
+        )
+
+    [113] => Array
+        (
+            [line] => 32
+            [file] => ./models/Record.php
+            [message] => Method tableName has no parent to inherit from in app\models\Record.
+        )
+
+    [114] => Array
+        (
+            [line] => 40
+            [file] => ./models/Record.php
+            [message] => Method rules has no parent to inherit from in app\models\Record.
+        )
+
+    [115] => Array
+        (
+            [line] => 53
+            [file] => ./models/Record.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Record.
+        )
+
+    [116] => Array
+        (
+            [line] => 163
+            [file] => ./models/Record.php
+            [message] => Undefined parameter documented:  in deleteByDatasetId().
+        )
+
+    [117] => Array
+        (
+            [line] => 35
+            [file] => ./models/RecordVariable.php
+            [message] => Method tableName has no parent to inherit from in app\models\RecordVariable.
+        )
+
+    [118] => Array
+        (
+            [line] => 42
+            [file] => ./models/RecordVariable.php
+            [message] => Method rules has no parent to inherit from in app\models\RecordVariable.
+        )
+
+    [119] => Array
+        (
+            [line] => 55
+            [file] => ./models/RecordVariable.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\RecordVariable.
+        )
+
+    [120] => Array
+        (
+            [line] => 46
+            [file] => ./models/Scale.php
+            [message] => Method tableName has no parent to inherit from in app\models\Scale.
+        )
+
+    [121] => Array
+        (
+            [line] => 53
+            [file] => ./models/Scale.php
+            [message] => Method rules has no parent to inherit from in app\models\Scale.
+        )
+
+    [122] => Array
+        (
+            [line] => 69
+            [file] => ./models/Scale.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Scale.
+        )
+
+    [123] => Array
+        (
+            [line] => 35
+            [file] => ./models/ScaleValue.php
+            [message] => Method tableName has no parent to inherit from in app\models\ScaleValue.
+        )
+
+    [124] => Array
+        (
+            [line] => 42
+            [file] => ./models/ScaleValue.php
+            [message] => Method rules has no parent to inherit from in app\models\ScaleValue.
+        )
+
+    [125] => Array
+        (
+            [line] => 57
+            [file] => ./models/ScaleValue.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\ScaleValue.
+        )
+
+    [126] => Array
+        (
+            [line] => 33
+            [file] => ./models/Season.php
+            [message] => Method tableName has no parent to inherit from in app\models\Season.
+        )
+
+    [127] => Array
+        (
+            [line] => 40
+            [file] => ./models/Season.php
+            [message] => Method rules has no parent to inherit from in app\models\Season.
+        )
+
+    [128] => Array
+        (
+            [line] => 56
+            [file] => ./models/Season.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Season.
+        )
+
+    [129] => Array
+        (
+            [line] => 56
+            [file] => ./models/Study.php
+            [message] => Method tableName has no parent to inherit from in app\models\Study.
+        )
+
+    [130] => Array
+        (
+            [line] => 63
+            [file] => ./models/Study.php
+            [message] => Method rules has no parent to inherit from in app\models\Study.
+        )
+
+    [131] => Array
+        (
+            [line] => 83
+            [file] => ./models/Study.php
+            [message] => Method primaryKey has no parent to inherit from in app\models\Study.
+        )
+
+    [132] => Array
+        (
+            [line] => 90
+            [file] => ./models/Study.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Study.
+        )
+
+    [133] => Array
+        (
+            [line] => 35
+            [file] => ./models/StudyMetadata.php
+            [message] => Method tableName has no parent to inherit from in app\models\StudyMetadata.
+        )
+
+    [134] => Array
+        (
+            [line] => 42
+            [file] => ./models/StudyMetadata.php
+            [message] => Method rules has no parent to inherit from in app\models\StudyMetadata.
+        )
+
+    [135] => Array
+        (
+            [line] => 55
+            [file] => ./models/StudyMetadata.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\StudyMetadata.
+        )
+
+    [136] => Array
+        (
+            [line] => 39
+            [file] => ./models/TaskRecord.php
+            [message] => Method tableName has no parent to inherit from in app\models\TaskRecord.
+        )
+
+    [137] => Array
+        (
+            [line] => 46
+            [file] => ./models/TaskRecord.php
+            [message] => Method rules has no parent to inherit from in app\models\TaskRecord.
+        )
+
+    [138] => Array
+        (
+            [line] => 61
+            [file] => ./models/TaskRecord.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\TaskRecord.
+        )
+
+    [139] => Array
+        (
+            [line] => 34
+            [file] => ./models/Transaction.php
+            [message] => Method tableName has no parent to inherit from in app\models\Transaction.
+        )
+
+    [140] => Array
+        (
+            [line] => 41
+            [file] => ./models/Transaction.php
+            [message] => Method rules has no parent to inherit from in app\models\Transaction.
+        )
+
+    [141] => Array
+        (
+            [line] => 53
+            [file] => ./models/Transaction.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Transaction.
+        )
+
+    [142] => Array
+        (
+            [line] => 5
+            [file] => ./models/User2.php
+            [message] => No docblock for element 'app\models\User'
+        )
+
+    [143] => Array
+        (
+            [line] => 7
+            [file] => ./models/User2.php
+            [message] => No docblock for element '$id'
+        )
+
+    [144] => Array
+        (
+            [line] => 7
+            [file] => ./models/User2.php
+            [message] => No short description for element '$id'
+        )
+
+    [145] => Array
+        (
+            [line] => 8
+            [file] => ./models/User2.php
+            [message] => No docblock for element '$username'
+        )
+
+    [146] => Array
+        (
+            [line] => 8
+            [file] => ./models/User2.php
+            [message] => No short description for element '$username'
+        )
+
+    [147] => Array
+        (
+            [line] => 9
+            [file] => ./models/User2.php
+            [message] => No docblock for element '$password'
+        )
+
+    [148] => Array
+        (
+            [line] => 9
+            [file] => ./models/User2.php
+            [message] => No short description for element '$password'
+        )
+
+    [149] => Array
+        (
+            [line] => 10
+            [file] => ./models/User2.php
+            [message] => No docblock for element '$authKey'
+        )
+
+    [150] => Array
+        (
+            [line] => 10
+            [file] => ./models/User2.php
+            [message] => No short description for element '$authKey'
+        )
+
+    [151] => Array
+        (
+            [line] => 11
+            [file] => ./models/User2.php
+            [message] => No docblock for element '$accessToken'
+        )
+
+    [152] => Array
+        (
+            [line] => 11
+            [file] => ./models/User2.php
+            [message] => No short description for element '$accessToken'
+        )
+
+    [153] => Array
+        (
+            [line] => 33
+            [file] => ./models/User2.php
+            [message] => Method findIdentity has no parent to inherit from in app\models\User.
+        )
+
+    [154] => Array
+        (
+            [line] => 41
+            [file] => ./models/User2.php
+            [message] => Method findIdentityByAccessToken has no parent to inherit from in app\models\User.
+        )
+
+    [155] => Array
+        (
+            [line] => 72
+            [file] => ./models/User2.php
+            [message] => Method getId has no parent to inherit from in app\models\User.
+        )
+
+    [156] => Array
+        (
+            [line] => 80
+            [file] => ./models/User2.php
+            [message] => Method getAuthKey has no parent to inherit from in app\models\User.
+        )
+
+    [157] => Array
+        (
+            [line] => 88
+            [file] => ./models/User2.php
+            [message] => Method validateAuthKey has no parent to inherit from in app\models\User.
+        )
+
+    [158] => Array
+        (
+            [line] => 104
+            [file] => ./models/User2.php
+            [message] => No docblock for element 'getUserDetails'
+        )
+
+    [159] => Array
+        (
+            [line] => 108
+            [file] => ./models/User2.php
+            [message] => No docblock for element 'checkUserCredentials'
+        )
+
+    [160] => Array
+        (
+            [line] => 69
+            [file] => ./models/Variable.php
+            [message] => Method tableName has no parent to inherit from in app\models\Variable.
+        )
+
+    [161] => Array
+        (
+            [line] => 76
+            [file] => ./models/Variable.php
+            [message] => Method rules has no parent to inherit from in app\models\Variable.
+        )
+
+    [162] => Array
+        (
+            [line] => 96
+            [file] => ./models/Variable.php
+            [message] => Method attributeLabels has no parent to inherit from in app\models\Variable.
+        )
+
+    [163] => Array
+        (
+            [line] => 11
+            [file] => ./modules/api/v1/controllers/TokenController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\TokenController'
+        )
+
+    [164] => Array
+        (
+            [line] => 13
+            [file] => ./modules/api/v1/controllers/TokenController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [165] => Array
+        (
+            [line] => 13
+            [file] => ./modules/api/v1/controllers/TokenController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [166] => Array
+        (
+            [line] => 15
+            [file] => ./modules/api/v1/controllers/TokenController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [167] => Array
+        (
+            [line] => 5
+            [file] => ./modules/v1/V1Module.php
+            [message] => No docblock for element 'app\modules\v1\V1Module'
+        )
+
+    [168] => Array
+        (
+            [line] => 7
+            [file] => ./modules/v1/V1Module.php
+            [message] => No docblock for element '$controllerNamespace'
+        )
+
+    [169] => Array
+        (
+            [line] => 7
+            [file] => ./modules/v1/V1Module.php
+            [message] => No short description for element '$controllerNamespace'
+        )
+
+    [170] => Array
+        (
+            [line] => 9
+            [file] => ./modules/v1/V1Module.php
+            [message] => No docblock for element 'init'
+        )
+
+    [171] => Array
+        (
+            [line] => 12
+            [file] => ./modules/v1/controllers/AuthorizeController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\AuthorizeController'
+        )
+
+    [172] => Array
+        (
+            [line] => 14
+            [file] => ./modules/v1/controllers/AuthorizeController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [173] => Array
+        (
+            [line] => 14
+            [file] => ./modules/v1/controllers/AuthorizeController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [174] => Array
+        (
+            [line] => 16
+            [file] => ./modules/v1/controllers/AuthorizeController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [175] => Array
+        (
+            [line] => 183
+            [file] => ./modules/v1/controllers/DatasetController.php
+            [message] => No docblock for element 'actionDeleteall'
+        )
+
+    [176] => Array
+        (
+            [line] => 10
+            [file] => ./modules/v1/controllers/DefaultController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\DefaultController'
+        )
+
+    [177] => Array
+        (
+            [line] => 12
+            [file] => ./modules/v1/controllers/DefaultController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [178] => Array
+        (
+            [line] => 19
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\OAuthController'
+        )
+
+    [179] => Array
+        (
+            [line] => 21
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [180] => Array
+        (
+            [line] => 21
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [181] => Array
+        (
+            [line] => 23
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [182] => Array
+        (
+            [line] => 51
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionSignin'
+        )
+
+    [183] => Array
+        (
+            [line] => 117
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionAuthorize'
+        )
+
+    [184] => Array
+        (
+            [line] => 152
+            [file] => ./modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionToken'
+        )
+
+    [185] => Array
+        (
+            [line] => 11
+            [file] => ./modules/v1/controllers/TokenController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\TokenController'
+        )
+
+    [186] => Array
+        (
+            [line] => 13
+            [file] => ./modules/v1/controllers/TokenController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [187] => Array
+        (
+            [line] => 13
+            [file] => ./modules/v1/controllers/TokenController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [188] => Array
+        (
+            [line] => 15
+            [file] => ./modules/v1/controllers/TokenController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [189] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [190] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \app\modules\v1\models\totalCount in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [191] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \app\modules\v1\models\totalCount in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [192] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\ActiveQuery in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [193] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\ActiveQuery in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [194] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\ActiveQuery in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [195] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\ActiveQuery in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [196] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\ActiveQuery::modelClass in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [197] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\Query in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [198] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\Query in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [199] => Array
+        (
+            [file] => ./modules/v1/models/ActiveDataProvider.php
+            [message] => broken link to \yii\db\Query in app\modules\v1\models\ActiveDataProvider
+        )
+
+    [200] => Array
+        (
+            [file] => ./modules/v1/models/ArrayDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\ArrayDataProvider
+        )
+
+    [201] => Array
+        (
+            [file] => ./modules/v1/models/ArrayDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\ArrayDataProvider
+        )
+
+    [202] => Array
+        (
+            [file] => ./modules/v1/models/ArrayDataProvider.php
+            [message] => broken link to \app\modules\v1\models\pagination in app\modules\v1\models\ArrayDataProvider
+        )
+
+    [203] => Array
+        (
+            [file] => ./modules/v1/models/ArrayDataProvider.php
+            [message] => broken link to \app\modules\v1\models\sort in app\modules\v1\models\ArrayDataProvider
+        )
+
+    [204] => Array
+        (
+            [file] => ./modules/v1/models/ArrayDataProvider.php
+            [message] => broken link to \app\modules\v1\models\sort in app\modules\v1\models\ArrayDataProvider
+        )
+
+    [205] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\count in app\modules\v1\models\BaseDataProvider
+        )
+
+    [206] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\BaseDataProvider
+        )
+
+    [207] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\BaseDataProvider
+        )
+
+    [208] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\BaseDataProvider
+        )
+
+    [209] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\pagination in app\modules\v1\models\BaseDataProvider
+        )
+
+    [210] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\pagination in app\modules\v1\models\BaseDataProvider
+        )
+
+    [211] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to \app\modules\v1\models\sort in app\modules\v1\models\BaseDataProvider
+        )
+
+    [212] => Array
+        (
+            [file] => ./modules/v1/models/BaseDataProvider.php
+            [message] => broken link to app\modules\v1\models\Pagination::pageCount in app\modules\v1\models\BaseDataProvider
+        )
+
+    [213] => Array
+        (
+            [file] => ./modules/v1/models/DataProviderInterface.php
+            [message] => broken link to \yii\grid\GridView in app\modules\v1\models\DataProviderInterface
+        )
+
+    [214] => Array
+        (
+            [file] => ./modules/v1/models/DataProviderInterface.php
+            [message] => broken link to \yii\widgets\ListView in app\modules\v1\models\DataProviderInterface
+        )
+
+    [215] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\page in app\modules\v1\models\Pagination
+        )
+
+    [216] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\page in app\modules\v1\models\Pagination
+        )
+
+    [217] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\page in app\modules\v1\models\Pagination
+        )
+
+    [218] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\page in app\modules\v1\models\Pagination
+        )
+
+    [219] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\page in app\modules\v1\models\Pagination
+        )
+
+    [220] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\page in app\modules\v1\models\Pagination
+        )
+
+    [221] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\pageCount in app\modules\v1\models\Pagination
+        )
+
+    [222] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\pageCount in app\modules\v1\models\Pagination
+        )
+
+    [223] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\pageSize in app\modules\v1\models\Pagination
+        )
+
+    [224] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\pageSize in app\modules\v1\models\Pagination
+        )
+
+    [225] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\pageSize in app\modules\v1\models\Pagination
+        )
+
+    [226] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \app\modules\v1\models\pageSize in app\modules\v1\models\Pagination
+        )
+
+    [227] => Array
+        (
+            [file] => ./modules/v1/models/Pagination.php
+            [message] => broken link to \yii\widgets\LinkPager in app\modules\v1\models\Pagination
+        )
+
+    [228] => Array
+        (
+            [file] => ./modules/v1/models/Serializer2.php
+            [message] => broken link to \yii\base\Model in app\modules\v1\models\Serializer2
+        )
+
+    [229] => Array
+        (
+            [file] => ./modules/v1/models/Serializer2.php
+            [message] => broken link to \yii\base\Model in app\modules\v1\models\Serializer2
+        )
+
+    [230] => Array
+        (
+            [file] => ./modules/v1/models/Serializer2.php
+            [message] => broken link to \yii\base\Model::extraFields() in app\modules\v1\models\Serializer2
+        )
+
+    [231] => Array
+        (
+            [file] => ./modules/v1/models/Serializer2.php
+            [message] => broken link to \yii\base\Model::fields() in app\modules\v1\models\Serializer2
+        )
+
+    [232] => Array
+        (
+            [line] => 109
+            [file] => ./modules/v1/models/Serializer2.php
+            [message] => Method init has no parent to inherit from in app\modules\v1\models\Serializer2.
+        )
+
+    [233] => Array
+        (
+            [file] => ./modules/v1/models/Sort.php
+            [message] => broken link to \app\modules\v1\models\attributes in app\modules\v1\models\Sort
+        )
+
+    [234] => Array
+        (
+            [file] => ./modules/v1/models/Sort.php
+            [message] => broken link to \yii\db\Query::orderBy() in app\modules\v1\models\Sort
+        )
+
+    [235] => Array
+        (
+            [file] => ./modules/v1/models/SqlDataProvider.php
+            [message] => broken link to \app\modules\v1\models\models in app\modules\v1\models\SqlDataProvider
+        )
+
+    [236] => Array
+        (
+            [file] => ./modules/v1/models/SqlDataProvider.php
+            [message] => broken link to \app\modules\v1\models\pagination in app\modules\v1\models\SqlDataProvider
+        )
+
+    [237] => Array
+        (
+            [file] => ./modules/v1/models/SqlDataProvider.php
+            [message] => broken link to \app\modules\v1\models\sort in app\modules\v1\models\SqlDataProvider
+        )
+
+    [238] => Array
+        (
+            [file] => ./modules/v1/models/SqlDataProvider.php
+            [message] => broken link to \app\modules\v1\models\sort in app\modules\v1\models\SqlDataProvider
+        )
+
+    [239] => Array
+        (
+            [file] => ./modules/v1/models/SqlDataProvider.php
+            [message] => broken link to \app\modules\v1\models\totalCount in app\modules\v1\models\SqlDataProvider
+        )
+
+    [240] => Array
+        (
+            [line] => 5
+            [file] => modules/v1/V1Module.php
+            [message] => No docblock for element 'app\modules\v1\V1Module'
+        )
+
+    [241] => Array
+        (
+            [line] => 7
+            [file] => modules/v1/V1Module.php
+            [message] => No docblock for element '$controllerNamespace'
+        )
+
+    [242] => Array
+        (
+            [line] => 7
+            [file] => modules/v1/V1Module.php
+            [message] => No short description for element '$controllerNamespace'
+        )
+
+    [243] => Array
+        (
+            [line] => 9
+            [file] => modules/v1/V1Module.php
+            [message] => No docblock for element 'init'
+        )
+
+    [244] => Array
+        (
+            [line] => 12
+            [file] => modules/v1/controllers/AuthorizeController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\AuthorizeController'
+        )
+
+    [245] => Array
+        (
+            [line] => 14
+            [file] => modules/v1/controllers/AuthorizeController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [246] => Array
+        (
+            [line] => 14
+            [file] => modules/v1/controllers/AuthorizeController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [247] => Array
+        (
+            [line] => 16
+            [file] => modules/v1/controllers/AuthorizeController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [248] => Array
+        (
+            [line] => 183
+            [file] => modules/v1/controllers/DatasetController.php
+            [message] => No docblock for element 'actionDeleteall'
+        )
+
+    [249] => Array
+        (
+            [line] => 10
+            [file] => modules/v1/controllers/DefaultController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\DefaultController'
+        )
+
+    [250] => Array
+        (
+            [line] => 12
+            [file] => modules/v1/controllers/DefaultController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [251] => Array
+        (
+            [line] => 19
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\OAuthController'
+        )
+
+    [252] => Array
+        (
+            [line] => 21
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [253] => Array
+        (
+            [line] => 21
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [254] => Array
+        (
+            [line] => 23
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+    [255] => Array
+        (
+            [line] => 51
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionSignin'
+        )
+
+    [256] => Array
+        (
+            [line] => 117
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionAuthorize'
+        )
+
+    [257] => Array
+        (
+            [line] => 152
+            [file] => modules/v1/controllers/OAuthController.php
+            [message] => No docblock for element 'actionToken'
+        )
+
+    [258] => Array
+        (
+            [line] => 11
+            [file] => modules/v1/controllers/TokenController.php
+            [message] => No docblock for element 'app\modules\v1\controllers\TokenController'
+        )
+
+    [259] => Array
+        (
+            [line] => 13
+            [file] => modules/v1/controllers/TokenController.php
+            [message] => No docblock for element '$enableCsrfValidation'
+        )
+
+    [260] => Array
+        (
+            [line] => 13
+            [file] => modules/v1/controllers/TokenController.php
+            [message] => No short description for element '$enableCsrfValidation'
+        )
+
+    [261] => Array
+        (
+            [line] => 15
+            [file] => modules/v1/controllers/TokenController.php
+            [message] => No docblock for element 'actionIndex'
+        )
+
+)
